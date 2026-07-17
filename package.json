@@ -1,0 +1,15 @@
+{
+  "name": "postbox",
+  "version": "2.0.0",
+  "description": "Personal bulk email sender (Brevo API) with a mobile-friendly web UI",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
